@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Hello+World%2C+I'm+Ian+👋;Software+Engineer;Full+Stack+Developer;Backend+Developer;POS+Systems+Architect;Business+Software+Developer;Cybersecurity+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Hello+World%2C+I'm+Ian+👋" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=850&lines=Building+Scalable+Business+Solutions;Creating+Modern+Web+Applications;Developing+Enterprise+Management+Systems" />
+## Software Engineer • Full Stack Developer • Backend Developer • POS Systems Architect • Business Software Developer • Cybersecurity Enthusiast
 
-<br><br>
+<br>
 
 🚀 Building software solutions that automate businesses and solve real-world problems.
 
