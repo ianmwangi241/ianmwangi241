@@ -1,14 +1,12 @@
-# 👋 Hello World, I'm Ian
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;POS+Systems+Architect;Cybersecurity+Enthusiast;Building+Business+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+World%2C+I'm+Ian+👋" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;POS+Systems+Architect;Cybersecurity+Enthusiast" />
 
-<br>
+<br><br>
 
 Building scalable business software, modern web applications, and enterprise-grade retail management solutions 🚀
 
