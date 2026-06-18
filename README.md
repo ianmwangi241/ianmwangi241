@@ -1,54 +1,57 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+World%2C+I'm+Ian+👋" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;POS+Systems+Architect;Cybersecurity+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Hello+World%2C+I'm+Ian+👋;Software+Engineer;Full+Stack+Developer;Backend+Developer;POS+Systems+Architect;Business+Software+Developer;Cybersecurity+Enthusiast" />
 
 <br><br>
 
-Building scalable business software, modern web applications, and enterprise-grade retail management solutions 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=850&lines=Building+Scalable+Business+Solutions;Creating+Modern+Web+Applications;Developing+Enterprise+Management+Systems" />
+
+<br><br>
+
+🚀 Building software solutions that automate businesses and solve real-world problems.
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I develop business-focused applications including:
+I am a developer focused on building reliable, scalable, and practical software systems.
+
+My interests include:
 
 - 🏪 POS & Retail Management Systems
-- 📦 Inventory & Stock Management
-- 🏨 Hotel & Restaurant Systems
-- 🏠 Rental Management Systems
+- 📦 Inventory & Warehouse Systems
+- 🏨 Hotel & Restaurant Management Systems
+- 🏠 Rental Management Platforms
 - 🗂️ Asset Management Systems
-- 📱 Mobile & Web Applications
-- 🔐 Cybersecurity Solutions
+- 🌐 Full Stack Web Applications
+- 📱 Mobile Applications
+- 🔐 Cybersecurity & Secure Development
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
-## Backend Development
+## Backend
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ---
 
-## Frontend Development
+## Frontend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
 ---
@@ -71,7 +74,7 @@ I develop business-focused applications including:
 
 ---
 
-## ⚙️ Tools
+## Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -84,75 +87,74 @@ I develop business-focused applications including:
 
 # 🏗️ Systems I Build
 
-## 🏪 POS & Retail Systems
+## 🏪 POS & Retail Platforms
 
-Enterprise solutions for:
+Business management solutions for:
 
 - Supermarkets
+- Retail Shops
 - Restaurants
 - Hotels
 - Bars
-- Retail Shops
 - Wholesale Businesses
 
 Features:
 
 ✅ Sales Processing  
-✅ Barcode Integration  
-✅ Inventory Tracking  
+✅ Barcode Support  
+✅ Inventory Control  
 ✅ Stock Transfers  
 ✅ Purchase Management  
+✅ Production Tracking  
 ✅ Reports & Analytics  
 ✅ Multi-Branch Support  
-✅ Remote Access from Mobile Devices  
+✅ Mobile Remote Access  
 
 ---
 
-## 📦 Business Management Platforms
+## 📊 Business Applications
 
 - Inventory Management Systems
 - Production Management Systems
 - Rental Management Systems
-- Asset Tracking Systems
-- Business Reporting Platforms
+- Asset Management Systems
+- Business Intelligence Dashboards
+- Cloud-Based Reporting Systems
 
 ---
 
-# 🔐 Cybersecurity Focus
+# 🔐 Cybersecurity
 
-Currently exploring:
+Currently focused on:
 
 - Ethical Hacking
-- Web Security
+- Web Application Security
 - Network Security
-- Secure Application Development
 - Vulnerability Testing
+- Secure Software Development
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ianmwangi241&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmwangi241&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ianmwangi241&theme=tokyonight"/>
-
-</p>
-
+# 📈 GitHub Stats
 
 <div align="center">
 
-## Building technology that solves business problems 🚀
+<img src="https://github-readme-stats.vercel.app/api?username=ianmwangi241&show_icons=true&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmwangi241&layout=compact&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ianmwangi241&theme=github-dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building technology that helps businesses grow
 
 </div>
