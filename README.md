@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Software Engineer • Full Stack Developer • POS Systems Architect • Rental Management Systems Architect • Cybersecurity Enthusiast 
+##Software Engineer • Full Stack Developer • POS Systems Architect • Cybersecurity Enthusiast
 
 Building scalable business software, modern web applications, and enterprise-grade retail management solutions.
 
@@ -12,20 +12,15 @@ Building scalable business software, modern web applications, and enterprise-gra
 
 ## 🚀 About Me
 
-I'm a software developer passionate about building practical technology solutions that solve real-world business challenges.
+I develop business-focused applications including:
 
-My primary focus areas include:
-
-* 🏪 Point of Sale (POS) Systems
-* 📦 Inventory & Production Management
-* 🌐 Full Stack Web Development
-* 📱 Mobile Application Development
-* 🔐 Cybersecurity & Ethical Hacking
-* ☁️ Cloud Synchronization & Distributed Systems
-* 🗄️ Database Design & Optimization
-* 📊 Business Intelligence & Reporting
-
-I enjoy creating software that improves efficiency, automates business processes, and provides actionable insights through data.
+- 🏪 POS & Retail Management Systems
+- 📦 Inventory & Stock Management
+- 🏨 Hotel & Restaurant Systems
+- 🏠 Rental Management Systems
+- 🗂️ Asset Management Systems
+- 📱 Mobile & Web Applications
+- 🔐 Cybersecurity Solutions
 
 ---
 
@@ -33,182 +28,111 @@ I enjoy creating software that improves efficiency, automates business processes
 
 ## Backend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs" />
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
+
+---
 
 ## Frontend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs" />
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
+
+---
 
 ## Mobile Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react" />
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-**React Native** for cross-platform mobile applications.
+---
 
 ## Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-## Tools & Technologies
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
-# 🌐 Full Stack Development
+## ⚙️ Tools
 
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Next.js
-
-### Backend
-
-* Python
-* PHP
-* Laravel
-* REST APIs
-* Authentication Systems
-* Business Logic Design
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-
-### Mobile
-
-* React Native
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
-# 🏪 Featured Project: Enterprise POS & Inventory Management System
+# 🏗️ Systems I Build
 
-A comprehensive retail and hospitality management platform designed for:
+## 🏪 POS & Retail Systems
 
-* Supermarkets
-* Restaurants
-* Hotels
-* Bars
-* Liquor Stores
-* Convenience Stores
-* Wholesale Businesses
-* General Retail Stores
+Enterprise solutions for:
 
-### Core Features
+- Supermarkets
+- Restaurants
+- Hotels
+- Bars
+- Retail Shops
+- Wholesale Businesses
 
-#### Sales Management
+Features:
 
-* Fast POS Processing
-* Barcode Integration
-* Multiple Payment Methods
-* Receipt Printing
-* Order Management
-
-#### Inventory Management
-
-* Stock Tracking
-* Stock Take
-* Stock Issues
-* Stock Transfers
-* Purchase Management
-* Reorder Alerts
-
-#### Production Management
-
-* Raw Material Consumption
-* Production Tracking
-* Inventory Conversion
-* Yield Management
-
-#### Reporting & Analytics
-
-* Sales Reports
-* Profit Analysis
-* Inventory Reports
-* Shift Reports
-* Production Reports
-
-#### Remote Access
-
-📱 Access business data from anywhere.
-
-Managers can securely view:
-
-* Sales Reports
-* Inventory Reports
-* Production Reports
-* Dashboard Analytics
-* Branch Performance
-* Stock Levels
-
-directly from a mobile phone, tablet, or web browser without being physically present at the business premises.
-
-#### Cloud Synchronization
-
-* Multi-Branch Support
-* Online & Offline Operations
-* Automatic Data Synchronization
-* Centralized Reporting
+✅ Sales Processing  
+✅ Barcode Integration  
+✅ Inventory Tracking  
+✅ Stock Transfers  
+✅ Purchase Management  
+✅ Reports & Analytics  
+✅ Multi-Branch Support  
+✅ Remote Access from Mobile Devices  
 
 ---
 
-# 🔐 Cybersecurity Journey
+## 📦 Business Management Platforms
 
-Currently expanding expertise in:
-
-* Ethical Hacking
-* Network Security
-* Web Application Security
-* Vulnerability Assessment
-* Penetration Testing
-* Secure Software Development
-* Linux Systems
-
-### Technologies & Areas of Interest
-
-* Python Security Tools
-* Web Security Testing
-* Authentication Systems
-* API Security
-* OWASP Top 10
-* Network Analysis
+- Inventory Management Systems
+- Production Management Systems
+- Rental Management Systems
+- Asset Tracking Systems
+- Business Reporting Platforms
 
 ---
 
-# 📊 Current Focus
+# 🔐 Cybersecurity Focus
 
-* Building scalable POS ecosystems
-* Advanced PostgreSQL optimization
-* Enterprise software architecture
-* Full stack web applications
-* React Native mobile applications
-* Ethical hacking and cybersecurity
-* Cloud-enabled retail solutions
+Currently exploring:
+
+- Ethical Hacking
+- Web Security
+- Network Security
+- Secure Application Development
+- Vulnerability Testing
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianmwangi241&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmwangi241&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -218,38 +142,13 @@ Currently expanding expertise in:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ianmwangi241&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
----
-
-# 🎯 Professional Goals
-
-* Become an expert software architect
-* Build enterprise-grade retail systems
-* Master cybersecurity and ethical hacking
-* Develop scalable cloud platforms
-* Create impactful technology solutions for businesses
-
----
-
-# 🤝 Let's Connect
-
-💼 Open to collaborating on:
-
-* Retail Technology
-* Rental Management Systems
-* Business Automation
-* Full Stack Applications
-* Mobile Applications
-* Cybersecurity Projects
-* Open Source Development
-
----
 
 <div align="center">
 
-### Turning ideas into reliable software solutions 🚀
+## Building technology that solves business problems 🚀
 
 </div>
