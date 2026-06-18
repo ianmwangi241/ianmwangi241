@@ -1,10 +1,16 @@
-# 👋 Hi, I'm Ian
+# 👋 Hello World, I'm Ian
 
 <div align="center">
 
-##Software Engineer • Full Stack Developer • POS Systems Architect • Cybersecurity Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;POS+Systems+Architect;Cybersecurity+Enthusiast;Building+Business+Solutions" />
 
-Building scalable business software, modern web applications, and enterprise-grade retail management solutions.
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10" />
+
+<br>
+
+Building scalable business software, modern web applications, and enterprise-grade retail management solutions 🚀
 
 </div>
 
@@ -130,9 +136,9 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ianmwangi241&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmwangi241&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -142,7 +148,7 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ianmwangi241&theme=tokyonight"/>
 
 </p>
 
